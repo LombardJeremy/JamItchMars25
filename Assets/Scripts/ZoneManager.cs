@@ -14,7 +14,7 @@ public class ZoneManager : MonoBehaviour
         for (int i = 0; i < 3; i++)
         {
             ZoneOfSpeed tempZone = new ZoneOfSpeed();
-            tempZone.zoneHeat = (StateOfHeat)Random.Range(0, 5);
+            tempZone.zoneHeat = (StateOfHeat)Random.Range(0, 3);
             ZoneOfSpeedList.Add(tempZone); //3 zones
         }
         CurrentZoneOfSpeed = ZoneOfSpeedList[0]; //Le premier
@@ -24,7 +24,7 @@ public class ZoneManager : MonoBehaviour
     {
         ZoneOfSpeedList.Remove(ZoneOfSpeedList[0]);
         ZoneOfSpeedList.Add(new ZoneOfSpeed());
-        ZoneOfSpeedList[2].zoneHeat = (StateOfHeat)Random.Range(0, 5);
+        ZoneOfSpeedList[2].zoneHeat = (StateOfHeat)Random.Range(0, 3);
         CurrentZoneOfSpeed = ZoneOfSpeedList[0];
     }
 }

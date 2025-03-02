@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
     public Puyo _nextPuyo;
     
     //Data Manager
-    [SerializeField] public StateOfHeat _currentHeat = StateOfHeat.VERY_HIGH;
+    [SerializeField] public StateOfHeat _currentHeat = StateOfHeat.MEDIUM;
     [SerializeField] public float _currentHeatProgression;
     [SerializeField] public ZoneManager _zoneManager;
 
@@ -56,7 +56,7 @@ public class GameManager : MonoBehaviour
         //Debug.Log(_currentHeat + " " + _currentHeatProgression);
         if (_currentHeatProgression >= 100)
         {
-            if (_currentHeat + 1 < (StateOfHeat)5)
+            if (_currentHeat + 1 < (StateOfHeat)3)
             {
                 _currentHeat += 1;
                 _currentHeatProgression = 0f;
