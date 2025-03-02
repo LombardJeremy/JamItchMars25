@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TX_Axle_background_0: -894577092491652636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

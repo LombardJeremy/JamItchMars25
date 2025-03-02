@@ -1,5 +1,6 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UiChange : MonoBehaviour
 {
@@ -7,6 +8,7 @@ public class UiChange : MonoBehaviour
     [Header("Train Value")]
     [SerializeField] private TMP_Text TrainValue;
     [SerializeField] private TMP_Text TrainState;
+    [SerializeField] private Image TrainValueSlide;
 
     [Header("Speed Zone")]
     [SerializeField] private TMP_Text ZoneSpeedValue;
@@ -35,5 +37,6 @@ public class UiChange : MonoBehaviour
         ZoneSpeedState.text = _gameManager._zoneManager.CurrentZoneOfSpeed.zoneHeat.ToString();
         ZoneSpeedValue.text = _gameManager._zoneManager.CurrentZoneOfSpeed.currentProgression.ToString();
         Chrono.text = _gameManager.Timer.ToString();
+        TrainValueSlide.fillAmount = Mathf.Clamp(_gameManager._currentHeatProgression / 100f, 0f, 1f);
     }
 }
