@@ -6,23 +6,34 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     //Puyo Manager
-    public Puyo _currentPuyo;
-    public Puyo _nextPuyo;
+    [NonSerialized] public Puyo _currentPuyo;
+    [NonSerialized] public Puyo _nextPuyo;
     
     //Data Manager
+    [Header("Base Heat & Value")]
     [SerializeField] public StateOfHeat _currentHeat = StateOfHeat.MEDIUM;
     [SerializeField] public float _currentHeatProgression;
+    
+    [Header("Zone Manager")]
     [SerializeField] public ZoneManager _zoneManager;
 
     //Value Manager
-    public float Timer = 30f;
+    [Header("Variables")]
+    [SerializeField] public float Timer = 30f;
     private float _score;
     [SerializeField] private float looseOfHeatMultiplier = 1f;
+    private int _polarity = -1;
     private bool _isHolding = false;
     private float timeToHold = 1f;
     
+    //Block
+    [Header("Block Value")]
+    [SerializeField] private float plusBlockToAdd = 5f;
+    [SerializeField] private float minusBlockToAdd = 5f;
+    [SerializeField] private float holdBlockToKeep = 1f;
+    
     //GameManager
-    public bool gameOver = false;
+    [NonSerialized] public bool gameOver = false;
     
     #region Unity
     private void Start()
@@ -51,19 +62,19 @@ public class GameManager : MonoBehaviour
         }
         else
         {
-            _currentHeatProgression -= 1f / looseOfHeatMultiplier;
+            _currentHeatProgression += Time.deltaTime * looseOfHeatMultiplier * _polarity;
         }
         //Debug.Log(_currentHeat + " " + _currentHeatProgression);
         if (_currentHeatProgression >= 100)
         {
-            if (_currentHeat + 1 < (StateOfHeat)3)
+            if (_currentHeat != StateOfHeat.HIGH)
             {
                 _currentHeat += 1;
-                _currentHeatProgression = 0f;
+                _currentHeatProgression = 1f;
             }
             else
             {
-                _currentHeatProgression = 99f;
+                _currentHeatProgression = 100f;
             }
         }
         if (_currentHeatProgression <= 0)
@@ -91,15 +102,17 @@ public class GameManager : MonoBehaviour
             case 0:
                 Debug.Log("HOLD");
                 _isHolding = true;
-                timeToHold += 1f;
+                timeToHold += holdBlockToKeep;
                 break;
             case 1:
                 Debug.Log("Minus");
-                _currentHeatProgression -= 5f;
+                _currentHeatProgression -= minusBlockToAdd;
+                _polarity = -1;
                 break;
             case 2:
                 Debug.Log("Plus");
-                _currentHeatProgression += 5f;
+                _currentHeatProgression += plusBlockToAdd;
+                _polarity = 1;
                 break;
             default:
                 Debug.Log("ERROR");
