@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PuyoUnit : MonoBehaviour
 {
-    private Color[] colorArray = { Color.magenta, Color.green, Color.red};
+    private Color[] colorArray = { new Color(0.843f, 0.302f, 1f), Color.green, Color.red};
     //MAGENTA = Maintient
     //ROUGE = Augmente
     //VERT = Diminue
@@ -16,6 +16,22 @@ public class PuyoUnit : MonoBehaviour
     void Awake(){
         colorIdx = Random.Range(0,3);
         GetComponent<SpriteRenderer>().color = colorArray[colorIdx];
+        foreach (Transform Children in transform)
+        {
+            Children.gameObject.SetActive(false);
+        }
+        switch (colorIdx)
+        {
+            case 0:
+                transform.GetChild(2).gameObject.SetActive(true);
+                break;
+            case 1:
+                transform.GetChild(1).gameObject.SetActive(true);
+                break;
+            case 2:
+                transform.GetChild(0).gameObject.SetActive(true);
+                break;
+        }
     }
 
     public IEnumerator DropToFloor(){
