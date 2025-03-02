@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
@@ -11,10 +12,10 @@ public class GameManager : MonoBehaviour
     //Data Manager
     [SerializeField] public StateOfHeat _currentHeat = StateOfHeat.VERY_HIGH;
     [SerializeField] public float _currentHeatProgression;
-    private ZoneOfSpeed _currentZone;
+    [SerializeField] public ZoneManager _zoneManager;
 
     //Value Manager
-    private float Timer = 0f;
+    public float Timer = 30f;
     private float _score;
     [SerializeField] private float looseOfHeatMultiplier = 1f;
     private bool _isHolding = false;
@@ -112,16 +113,22 @@ public class GameManager : MonoBehaviour
 
     private void CheckStateOfHeat()
     {
-        if(_currentZone == null) return;
-        if (_currentZone.zoneHeat != _currentHeat)
+        if(_zoneManager.CurrentZoneOfSpeed == null) return;
+        if (_zoneManager.CurrentZoneOfSpeed.zoneHeat != _currentHeat)
         {
             Debug.Log("WrongHeat");
-            _currentZone.currentProgression += 0.5f;
+            _zoneManager.CurrentZoneOfSpeed.currentProgression += 0.5f;
         }
         else
         {
             Debug.Log("GoodHeat");
-            _currentZone.currentProgression += 1f;
+            _zoneManager.CurrentZoneOfSpeed.currentProgression += 1f;
+        }
+        Debug.Log(_zoneManager.CurrentZoneOfSpeed.currentProgression);
+        if (_zoneManager.CurrentZoneOfSpeed.currentProgression >= 100f)
+        {
+            Timer += 15f;
+            _zoneManager.NextZone();
         }
     }
 
@@ -134,6 +141,15 @@ public class GameManager : MonoBehaviour
         {
             yield return new WaitForSeconds(0.1f);
             CheckStateOfHeat();
+            Timer -= 0.1f;
+            if (Timer <= 0f)
+            {
+                gameOver = true;
+                GameObject.Find("PuyoSpawner").GetComponent<PuyoSpawner>().enabled = false;
+                GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().alpha = 1;
+                GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().interactable = true;
+                GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().blocksRaycasts = true;
+            }
             if(gameOver) break;
         }
     }
