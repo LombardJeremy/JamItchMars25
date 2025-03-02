@@ -5,6 +5,9 @@ using UnityEngine;
 public class PuyoUnit : MonoBehaviour
 {
     private Color[] colorArray = { Color.magenta, Color.green, Color.red};
+    //MAGENTA = Maintient
+    //ROUGE = Augmente
+    //VERT = Diminue
     public bool activelyFalling = true;
     public bool forcedDownwards = false;
 

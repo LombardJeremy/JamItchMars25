@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,6 +7,9 @@ using UnityEngine.UI;
 public class GameBoard
 {
     public static Transform[,] gameBoard = new Transform[6,12];
+
+    public delegate void PuyoAction(int colorIdx);
+    public static event PuyoAction PuyoDeleted ;
 
     public static bool WithinBorders(Vector3 target){
         return target.x > -1 &&
@@ -50,6 +54,11 @@ public class GameBoard
 
     public static void Delete(Transform puyo){
         Vector2 pos = new Vector2(Mathf.Round(puyo.position.x), Mathf.Round(puyo.position.y));
+        //petit bordel
+        int nextX = (int)(Mathf.Round(puyo.position.x));
+        int nextY = (int)(Mathf.Round(puyo.position.y));
+        int colorId = gameBoard[nextX, nextY].GetComponent<PuyoUnit>().colorIdx;
+        PuyoDeleted?.Invoke(colorId);
         gameBoard[(int)pos.x, (int)pos.y] = null;
         UnityEngine.Object.Destroy(puyo.gameObject);
     }

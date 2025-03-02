@@ -9,8 +9,8 @@ public class GameManager : MonoBehaviour
     public Puyo _nextPuyo;
     
     //Data Manager
-    private StateOfHeat _currentHeat = StateOfHeat.VERY_HIGH;
-    private float _currentHeatProgression;
+    [SerializeField] public StateOfHeat _currentHeat = StateOfHeat.VERY_HIGH;
+    [SerializeField] public float _currentHeatProgression;
     private ZoneOfSpeed _currentZone;
 
     //Value Manager
@@ -24,12 +24,40 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         StartCoroutine(GameHeatLoop());
+        GameBoard.PuyoDeleted += APuyoAsBeenDeleted;
+    }
+
+    private void OnDestroy()
+    {
+        GameBoard.PuyoDeleted -= APuyoAsBeenDeleted;
+    }
+
+    private void APuyoAsBeenDeleted(int coloridx)
+    {
+        //0 = maintient, 1 = Diminue, 2 = Augmente
+        switch (coloridx)
+        {
+            case 0:
+                Debug.Log("HOLD");
+                break;
+            case 1:
+                Debug.Log("Minus");
+                _currentHeatProgression -= 5f;
+                break;
+            case 2:
+                Debug.Log("Plus");
+                _currentHeatProgression += 5f;
+                break;
+            default:
+                Debug.Log("ERROR");
+                break;
+        }
     }
 
     private void FixedUpdate()
     {
         _currentHeatProgression -= 1f / looseOfHeatMultiplier;
-        Debug.Log(_currentHeat + " " + _currentHeatProgression);
+        //Debug.Log(_currentHeat + " " + _currentHeatProgression);
         if (_currentHeatProgression >= 100)
         {
             if (_currentHeat + 1 < (StateOfHeat)5)
