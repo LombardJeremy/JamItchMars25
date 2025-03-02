@@ -2442,7 +2442,7 @@ MonoBehaviour:
   _currentPuyo: {fileID: 0}
   _nextPuyo: {fileID: 0}
   _currentHeat: 4
-  _currentHeatProgression: 0
+  _currentHeatProgression: 50
   looseOfHeatMultiplier: 10
   gameOver: 0
 --- !u!4 &2045906848

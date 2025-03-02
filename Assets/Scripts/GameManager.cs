@@ -17,10 +17,13 @@ public class GameManager : MonoBehaviour
     private float Timer = 0f;
     private float _score;
     [SerializeField] private float looseOfHeatMultiplier = 1f;
+    private bool _isHolding = false;
+    private float timeToHold = 1f;
     
     //GameManager
     public bool gameOver = false;
-
+    
+    #region Unity
     private void Start()
     {
         StartCoroutine(GameHeatLoop());
@@ -31,32 +34,24 @@ public class GameManager : MonoBehaviour
     {
         GameBoard.PuyoDeleted -= APuyoAsBeenDeleted;
     }
-
-    private void APuyoAsBeenDeleted(int coloridx)
-    {
-        //0 = maintient, 1 = Diminue, 2 = Augmente
-        switch (coloridx)
-        {
-            case 0:
-                Debug.Log("HOLD");
-                break;
-            case 1:
-                Debug.Log("Minus");
-                _currentHeatProgression -= 5f;
-                break;
-            case 2:
-                Debug.Log("Plus");
-                _currentHeatProgression += 5f;
-                break;
-            default:
-                Debug.Log("ERROR");
-                break;
-        }
-    }
-
+    
     private void FixedUpdate()
     {
-        _currentHeatProgression -= 1f / looseOfHeatMultiplier;
+        if (_isHolding)
+        {
+            if (timeToHold <= 0f)
+            {
+                _isHolding = false;
+            }
+            else
+            {
+                timeToHold -= 1f * Time.deltaTime;
+            }
+        }
+        else
+        {
+            _currentHeatProgression -= 1f / looseOfHeatMultiplier;
+        }
         //Debug.Log(_currentHeat + " " + _currentHeatProgression);
         if (_currentHeatProgression >= 100)
         {
@@ -83,16 +78,37 @@ public class GameManager : MonoBehaviour
             }
         }
     }
+    #endregion
 
-    IEnumerator GameHeatLoop()
+    #region Events
+
+    private void APuyoAsBeenDeleted(int coloridx)
     {
-        while (true)
+        //0 = maintient, 1 = Diminue, 2 = Augmente
+        switch (coloridx)
         {
-            yield return new WaitForSeconds(0.1f);
-            CheckStateOfHeat();
-            if(gameOver) break;
+            case 0:
+                Debug.Log("HOLD");
+                _isHolding = true;
+                timeToHold += 1f;
+                break;
+            case 1:
+                Debug.Log("Minus");
+                _currentHeatProgression -= 5f;
+                break;
+            case 2:
+                Debug.Log("Plus");
+                _currentHeatProgression += 5f;
+                break;
+            default:
+                Debug.Log("ERROR");
+                break;
         }
     }
+
+    #endregion
+
+    #region Fct's
 
     private void CheckStateOfHeat()
     {
@@ -108,4 +124,19 @@ public class GameManager : MonoBehaviour
             _currentZone.currentProgression += 1f;
         }
     }
+
+    #endregion
+
+    #region Coroutine
+    IEnumerator GameHeatLoop()
+    {
+        while (true)
+        {
+            yield return new WaitForSeconds(0.1f);
+            CheckStateOfHeat();
+            if(gameOver) break;
+        }
+    }
+
+    #endregion
 }
