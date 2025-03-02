@@ -1,10 +1,16 @@
 using UnityEngine;
 using UnityEngine.Serialization;
 
-public class ZoneOfSpeed : MonoBehaviour
+public class ZoneOfSpeed
 {
-    public float currentProgression = 0f;
+    public float currentProgression;
 
-    public StateOfHeat zoneHeat = StateOfHeat.MEDIUM;
+    public StateOfHeat zoneHeat;
+
+    public ZoneOfSpeed()
+    {
+        currentProgression = 0f;
+        zoneHeat = StateOfHeat.MEDIUM;
+    }
 }
 
