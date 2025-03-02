@@ -42,6 +42,8 @@ public class PuyoSpawner : MonoBehaviour
         {
             gameManager.gameOver = true;
             GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().alpha = 1;
+            GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().interactable = true;
+            GameObject.Find("GameOverCanvas").GetComponent<CanvasGroup>().blocksRaycasts = true;
             enabled = false; 
         } else {
             activePuyo = Instantiate((GameObject)Resources.Load("Puyo"), transform.position, Quaternion.identity).GetComponent<Puyo>();
