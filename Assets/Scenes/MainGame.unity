@@ -2498,7 +2498,7 @@ CanvasGroup:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1526310762}
   m_Enabled: 1
-  m_Alpha: 1
+  m_Alpha: 0
   m_Interactable: 0
   m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
@@ -3047,14 +3047,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18bb9939849ab42429f49c804b0f2195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentPuyo: {fileID: 0}
-  _nextPuyo: {fileID: 0}
   _currentHeat: 1
   _currentHeatProgression: 50
   _zoneManager: {fileID: 279579072}
   Timer: 30
-  looseOfHeatMultiplier: 10
-  gameOver: 0
+  looseOfHeatMultiplier: 2
+  timeToHold: 1
 --- !u!4 &2045906848
 Transform:
   m_ObjectHideFlags: 0
