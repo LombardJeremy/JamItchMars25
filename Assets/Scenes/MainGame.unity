@@ -3051,8 +3051,10 @@ MonoBehaviour:
   _currentHeatProgression: 50
   _zoneManager: {fileID: 279579072}
   Timer: 30
-  looseOfHeatMultiplier: 2
-  timeToHold: 1
+  looseOfHeatMultiplier: 3
+  plusBlockToAdd: 5
+  minusBlockToAdd: 5
+  holdBlockToKeep: 0.25
 --- !u!4 &2045906848
 Transform:
   m_ObjectHideFlags: 0
