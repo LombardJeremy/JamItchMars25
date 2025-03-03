@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 131c6c3cbdee9624facfbdc817fbc7a9
+guid: 37aedf2429d7f214997ef75faa78822d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4334917549203552239
-    second: Time Left_0
+      213: -2512132388207031349
+    second: Enviro_2_0
+  - first:
+      213: -1242035707188858884
+    second: Enviro_2_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -109,30 +112,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: iOS
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Time Left_0
+      name: Enviro_2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 594
-        height: 479
+        x: 203
+        y: 996
+        width: 1018
+        height: 1012
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fe772ea2b88b82c30800000000000000
-      internalID: 4334917549203552239
+      spriteID: bcb8a2c17ec132dd0800000000000000
+      internalID: -2512132388207031349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enviro_2_1
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 886
+        width: 1166
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff28aada1763cee0800000000000000
+      internalID: -1242035707188858884
       vertices: []
       indices: 
       edges: []
@@ -160,8 +172,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Time Left_0: 4334917549203552239
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
