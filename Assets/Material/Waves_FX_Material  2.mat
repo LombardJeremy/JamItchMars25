@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Waves_FX_Material
+  m_Name: Waves_FX_Material  2
   m_Shader: {fileID: -6465566751694194690, guid: eccbe1dc936cea84195f4624925348e1, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 71d0dbd60a0441c469617affe968f792, type: 3}
+        m_Texture: {fileID: 2800000, guid: e6b626d172ebfeb479acacbc30275756, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture:
@@ -50,9 +50,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _ColorMask: 15
-    - _NoiseRotationSpeed: -1
-    - _NoiseScale: 7
-    - _NoiseStrength: 0.92
+    - _NoiseRotationSpeed: -0.59
+    - _NoiseScale: 0.82
+    - _NoiseStrength: 0.94
     - _Stencil: 0
     - _StencilComp: 8
     - _StencilOp: 0
