@@ -38,7 +38,8 @@ public class UiChange : MonoBehaviour
         {
             ZoneSpeedState.text = _gameManager._zoneManager.CurrentZoneOfSpeed.zoneHeat.ToString();
             ZoneSpeedValue.text = _gameManager._zoneManager.CurrentZoneOfSpeed.currentProgression.ToString();
-            Chrono.text = _gameManager.Timer.ToString();
+            int currentValueChrono = (int)_gameManager.Timer;
+            Chrono.text = currentValueChrono.ToString();
             //Train UI
             float baseValue = Mathf.Clamp(_gameManager._currentHeatProgression / 100f, 0f, 1f);
             switch (_gameManager._currentHeat)

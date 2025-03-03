@@ -6,14 +6,14 @@ using UnityEngine.UI;
 
 public class GameBoard
 {
-    public static Transform[,] gameBoard = new Transform[6,12];
+    public static Transform[,] gameBoard = new Transform[7,12];
 
     public delegate void PuyoAction(int colorIdx);
     public static event PuyoAction PuyoDeleted ;
 
     public static bool WithinBorders(Vector3 target){
         return target.x > -1 &&
-            target.x < 6 &&
+            target.x < 7 &&
             target.y > -1 && 
             target.y < 12;
     }
@@ -67,7 +67,7 @@ public class GameBoard
         List<Transform> groupToDelete = new List<Transform>();
 
         for(int row = 0; row < 12; row++){
-            for(int col = 0; col < 6; col++ ){
+            for(int col = 0; col < 7; col++ ){
                 List<Transform> currentGroup = new List<Transform>();
 
                 if(gameBoard[col, row] != null){
@@ -95,7 +95,7 @@ public class GameBoard
 
     public static void DropAllColumns(){
         for(int row = 0; row < 12; row++){
-            for(int col = 0; col < 6; col++){
+            for(int col = 0; col < 7; col++){
                 if(gameBoard[col, row] != null){
                     Transform puyoUnit = gameBoard[col,row];
                     puyoUnit.gameObject.GetComponent<PuyoUnit>().DropToFloorExternal();
@@ -131,7 +131,7 @@ public class GameBoard
 
     public static bool AnyFallingBlocks(){
         for(int row = 11; row >= 0; row--){
-            for(int col = 0; col < 6; col++ ){     
+            for(int col = 0; col < 7; col++ ){     
                 if(gameBoard[col, row] != null){
                     if(gameBoard[col, row].gameObject.GetComponent<PuyoUnit>().forcedDownwards){
                         return true;
@@ -151,7 +151,7 @@ public class GameBoard
 
         for(int row = 11; row >= 0; row--){
             boardContents += $"{row} :";
-            for(int col = 0; col < 6; col++ ){                
+            for(int col = 0; col < 7; col++ ){                
                 if(gameBoard[col, row] == null){
                     boardContents += "o ";
                 } else {
