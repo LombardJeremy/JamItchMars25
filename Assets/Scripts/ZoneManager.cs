@@ -6,25 +6,44 @@ using Random = UnityEngine.Random;
 public class ZoneManager : MonoBehaviour
 {
     public ZoneOfSpeed CurrentZoneOfSpeed;
+    public int CurrentZoneOfSpeedID = 0;
     public List<ZoneOfSpeed> ZoneOfSpeedList;
+    
+    //Events
+    public delegate void ZoneAction();
+    public static event ZoneAction ZoneChangeUI ;
 
-    private void Start()
+    private void Awake()
     {
         ZoneOfSpeedList = new List<ZoneOfSpeed>();
-        for (int i = 0; i < 3; i++)
+        for (int i = 0; i < 4; i++)
         {
             ZoneOfSpeed tempZone = new ZoneOfSpeed();
             tempZone.zoneHeat = (StateOfHeat)Random.Range(0, 3);
-            ZoneOfSpeedList.Add(tempZone); //3 zones
+            ZoneOfSpeedList.Add(tempZone); //4 zones
         }
-        CurrentZoneOfSpeed = ZoneOfSpeedList[0]; //Le premier
+        CurrentZoneOfSpeed = ZoneOfSpeedList[CurrentZoneOfSpeedID]; //Le premier
     }
 
     public void NextZone()
     {
-        ZoneOfSpeedList.Remove(ZoneOfSpeedList[0]);
-        ZoneOfSpeedList.Add(new ZoneOfSpeed());
-        ZoneOfSpeedList[2].zoneHeat = (StateOfHeat)Random.Range(0, 3);
-        CurrentZoneOfSpeed = ZoneOfSpeedList[0];
+        CurrentZoneOfSpeedID += 1;
+        if ( CurrentZoneOfSpeedID < ZoneOfSpeedList.Count)
+        {
+            CurrentZoneOfSpeed = ZoneOfSpeedList[CurrentZoneOfSpeedID];
+        }
+        else
+        {
+            CurrentZoneOfSpeedID = 0;
+            ZoneOfSpeedList.Clear();
+            for (int i = 0; i < 4; i++)
+            {
+                ZoneOfSpeed tempZone = new ZoneOfSpeed();
+                tempZone.zoneHeat = (StateOfHeat)Random.Range(0, 3);
+                ZoneOfSpeedList.Add(tempZone); //4 zones
+            }
+            CurrentZoneOfSpeed = ZoneOfSpeedList[CurrentZoneOfSpeedID]; //Le premier
+            ZoneChangeUI?.Invoke();
+        }
     }
 }
