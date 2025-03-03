@@ -13,6 +13,10 @@ public class UiChange : MonoBehaviour
     
     [Header("Game Manager")]
     [SerializeField] private GameManager _gameManager;
+    
+    [Header("Game Over")]
+    [SerializeField] private ZoneManager zoneManager;
+    [SerializeField] private TMP_Text _gameOverScore;
     void Start()
     {
         UpdateText();
@@ -45,5 +49,6 @@ public class UiChange : MonoBehaviour
                     break;  
             }
         }
+        _gameOverScore.text = zoneManager.Score.ToString();
     }
 }

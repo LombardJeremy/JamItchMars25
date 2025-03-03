@@ -8,6 +8,8 @@ public class ZoneManager : MonoBehaviour
     public ZoneOfSpeed CurrentZoneOfSpeed;
     public int CurrentZoneOfSpeedID = 0;
     public List<ZoneOfSpeed> ZoneOfSpeedList;
+
+    public int Score;
     
     //Events
     public delegate void ZoneAction();
@@ -45,5 +47,6 @@ public class ZoneManager : MonoBehaviour
             CurrentZoneOfSpeed = ZoneOfSpeedList[CurrentZoneOfSpeedID]; //Le premier
             ZoneChangeUI?.Invoke();
         }
+        Score += 10;
     }
 }

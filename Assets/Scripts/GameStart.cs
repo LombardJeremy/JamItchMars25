@@ -13,6 +13,5 @@ public class GameStart : MonoBehaviour
 
     public void StartGame(){
         GameObject.Find("PuyoSpawner").GetComponent<PuyoSpawner>().enabled = true;
-        canvas.gameObject.SetActive(false);
     }
 }

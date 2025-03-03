@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PuyoUnit : MonoBehaviour
 {
-    private Color[] colorArray = { new Color(0.843f, 0.302f, 1f), Color.green, Color.red};
+    private Color[] colorArray = { new Color(0.694f, 0.706f, 0.839f), new Color(0.271f, 0.835f, 0.494f), new Color(0.776f, 0.467f, 0.451f)};
     //MAGENTA = Maintient
     //ROUGE = Augmente
     //VERT = Diminue
