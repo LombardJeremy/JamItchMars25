@@ -6,13 +6,7 @@ public class UiChange : MonoBehaviour
 {
 
     [Header("Train Value")]
-    [SerializeField] private TMP_Text TrainValue;
-    [SerializeField] private TMP_Text TrainState;
     [SerializeField] private Image TrainValueSlide;
-
-    [Header("Speed Zone")]
-    [SerializeField] private TMP_Text ZoneSpeedValue;
-    [SerializeField] private TMP_Text ZoneSpeedState;
     
     [Header("Time")]
     [SerializeField] private TMP_Text Chrono;
@@ -32,12 +26,8 @@ public class UiChange : MonoBehaviour
 
     void UpdateText()
     {
-        TrainState.text = _gameManager._currentHeat.ToString();
-        TrainValue.text = _gameManager._currentHeatProgression.ToString();
         if (_gameManager.enabled)
         {
-            ZoneSpeedState.text = _gameManager._zoneManager.CurrentZoneOfSpeed.zoneHeat.ToString();
-            ZoneSpeedValue.text = _gameManager._zoneManager.CurrentZoneOfSpeed.currentProgression.ToString();
             int currentValueChrono = (int)_gameManager.Timer;
             Chrono.text = currentValueChrono.ToString();
             //Train UI
