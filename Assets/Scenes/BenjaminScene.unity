@@ -335,7 +335,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &151203941
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2372,14 +2372,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18bb9939849ab42429f49c804b0f2195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentPuyo: {fileID: 0}
-  _nextPuyo: {fileID: 0}
   _currentHeat: 4
   _currentHeatProgression: 50
   _zoneManager: {fileID: 0}
   Timer: 30
   looseOfHeatMultiplier: 10
-  gameOver: 0
+  plusBlockToAdd: 5
+  minusBlockToAdd: 5
+  holdBlockToKeep: 1
 --- !u!4 &2045906848
 Transform:
   m_ObjectHideFlags: 0
