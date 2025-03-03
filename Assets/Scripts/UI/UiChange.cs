@@ -34,9 +34,25 @@ public class UiChange : MonoBehaviour
     {
         TrainState.text = _gameManager._currentHeat.ToString();
         TrainValue.text = _gameManager._currentHeatProgression.ToString();
-        ZoneSpeedState.text = _gameManager._zoneManager.CurrentZoneOfSpeed.zoneHeat.ToString();
-        ZoneSpeedValue.text = _gameManager._zoneManager.CurrentZoneOfSpeed.currentProgression.ToString();
-        Chrono.text = _gameManager.Timer.ToString();
-        TrainValueSlide.fillAmount = Mathf.Clamp(_gameManager._currentHeatProgression / 100f, 0f, 1f);
+        if (_gameManager.enabled)
+        {
+            ZoneSpeedState.text = _gameManager._zoneManager.CurrentZoneOfSpeed.zoneHeat.ToString();
+            ZoneSpeedValue.text = _gameManager._zoneManager.CurrentZoneOfSpeed.currentProgression.ToString();
+            Chrono.text = _gameManager.Timer.ToString();
+            //Train UI
+            float baseValue = Mathf.Clamp(_gameManager._currentHeatProgression / 100f, 0f, 1f);
+            switch (_gameManager._currentHeat)
+            {
+                case StateOfHeat.LOW:
+                    TrainValueSlide.fillAmount = Mathf.Lerp(0f, 0.31f, baseValue);
+                    break;
+                case StateOfHeat.MEDIUM:
+                    TrainValueSlide.fillAmount = Mathf.Lerp(0.31f, 0.715f, baseValue);
+                    break;
+                case StateOfHeat.HIGH:
+                    TrainValueSlide.fillAmount = Mathf.Lerp(0.715f, 1f, baseValue);
+                    break;  
+            }
+        }
     }
 }

@@ -1019,7 +1019,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 7.37
+  orthographic size: 8.42
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1044,7 +1044,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.5, y: 5.5, z: -10}
+  m_LocalPosition: {x: 12.9, y: 5.98, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2468,7 +2468,7 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 2
   m_TargetDisplay: 0
 --- !u!224 &1526310766
 RectTransform:
@@ -3047,14 +3047,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 18bb9939849ab42429f49c804b0f2195, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentPuyo: {fileID: 0}
-  _nextPuyo: {fileID: 0}
   _currentHeat: 1
   _currentHeatProgression: 50
   _zoneManager: {fileID: 279579072}
   Timer: 30
-  looseOfHeatMultiplier: 10
-  gameOver: 0
+  looseOfHeatMultiplier: 2
+  plusBlockToAdd: 5
+  minusBlockToAdd: 5
+  holdBlockToKeep: 1
 --- !u!4 &2045906848
 Transform:
   m_ObjectHideFlags: 0
@@ -3080,7 +3080,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2745458998457869, guid: 702981d5f49e3b14fa81cd35ae66e962, type: 3}
       propertyPath: m_FillAmount
-      value: 1
+      value: 0.296
       objectReference: {fileID: 0}
     - target: {fileID: 2745458998457869, guid: 702981d5f49e3b14fa81cd35ae66e962, type: 3}
       propertyPath: m_PreserveAspect
@@ -3148,11 +3148,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1541745855596910547, guid: 702981d5f49e3b14fa81cd35ae66e962, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 147
       objectReference: {fileID: 0}
     - target: {fileID: 1541745855596910547, guid: 702981d5f49e3b14fa81cd35ae66e962, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 0
+      value: 22
       objectReference: {fileID: 0}
     - target: {fileID: 1541745855596910547, guid: 702981d5f49e3b14fa81cd35ae66e962, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
