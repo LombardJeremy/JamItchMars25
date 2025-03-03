@@ -1,0 +1,5203 @@
+fileFormatVersion: 2
+guid: 0d323aff7d20cc64895b77893a568a4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2988406150310817871
+    second: enviro 3_0
+  - first:
+      213: -1239862617885770420
+    second: enviro 3_1
+  - first:
+      213: -2367128281426095443
+    second: enviro 3_2
+  - first:
+      213: 7181173032196790989
+    second: enviro 3_3
+  - first:
+      213: 5823354912323045154
+    second: enviro 3_4
+  - first:
+      213: -3331204120000690271
+    second: enviro 3_5
+  - first:
+      213: -6123038128689203905
+    second: enviro 3_6
+  - first:
+      213: 5511619061498666733
+    second: enviro 3_7
+  - first:
+      213: 9079937417549982976
+    second: enviro 3_8
+  - first:
+      213: 1737595517011790186
+    second: enviro 3_9
+  - first:
+      213: -436127759894400146
+    second: enviro 3_10
+  - first:
+      213: 4678410494757677378
+    second: enviro 3_11
+  - first:
+      213: 2277559499177502715
+    second: enviro 3_12
+  - first:
+      213: 6024087965748233004
+    second: enviro 3_13
+  - first:
+      213: -7274253473847894018
+    second: enviro 3_14
+  - first:
+      213: -369988483856250005
+    second: enviro 3_15
+  - first:
+      213: 3294601937428973588
+    second: enviro 3_16
+  - first:
+      213: 7239051438485820736
+    second: enviro 3_17
+  - first:
+      213: 5076850932509481951
+    second: enviro 3_18
+  - first:
+      213: -5778635317383740980
+    second: enviro 3_19
+  - first:
+      213: -4280080521188376971
+    second: enviro 3_20
+  - first:
+      213: -7061231674060772494
+    second: enviro 3_21
+  - first:
+      213: 4595634067282241709
+    second: enviro 3_22
+  - first:
+      213: 1589876611757927322
+    second: enviro 3_23
+  - first:
+      213: -2321206453009133695
+    second: enviro 3_24
+  - first:
+      213: 116322406236735595
+    second: enviro 3_25
+  - first:
+      213: -7425623501809202322
+    second: enviro 3_26
+  - first:
+      213: 5955034900099298455
+    second: enviro 3_27
+  - first:
+      213: 1816183508938271698
+    second: enviro 3_28
+  - first:
+      213: -5574905413346253963
+    second: enviro 3_29
+  - first:
+      213: -496039621024651462
+    second: enviro 3_30
+  - first:
+      213: -8050979218818121453
+    second: enviro 3_31
+  - first:
+      213: 6851282856054460823
+    second: enviro 3_32
+  - first:
+      213: -6934615929746389298
+    second: enviro 3_33
+  - first:
+      213: -6675769151737343563
+    second: enviro 3_34
+  - first:
+      213: 5140711450621530235
+    second: enviro 3_35
+  - first:
+      213: -5313965949937524032
+    second: enviro 3_36
+  - first:
+      213: 8695529094157645479
+    second: enviro 3_37
+  - first:
+      213: -3386744445547199575
+    second: enviro 3_38
+  - first:
+      213: 1809943871641698279
+    second: enviro 3_39
+  - first:
+      213: -5967712775382954223
+    second: enviro 3_40
+  - first:
+      213: 6014795077763750454
+    second: enviro 3_41
+  - first:
+      213: 4491553343300129014
+    second: enviro 3_42
+  - first:
+      213: -1019529455970102241
+    second: enviro 3_43
+  - first:
+      213: 693953795063585928
+    second: enviro 3_44
+  - first:
+      213: -3173684263868920872
+    second: enviro 3_45
+  - first:
+      213: 650121034323908540
+    second: enviro 3_46
+  - first:
+      213: 3944960736981225795
+    second: enviro 3_47
+  - first:
+      213: -5067108907032645705
+    second: enviro 3_48
+  - first:
+      213: 5051113300664200820
+    second: enviro 3_49
+  - first:
+      213: 2385823403985659599
+    second: enviro 3_50
+  - first:
+      213: 6078757466983480033
+    second: enviro 3_51
+  - first:
+      213: -6082293535698519434
+    second: enviro 3_52
+  - first:
+      213: 3886946813730160995
+    second: enviro 3_53
+  - first:
+      213: 8821067975822136290
+    second: enviro 3_54
+  - first:
+      213: 2589542894668968887
+    second: enviro 3_55
+  - first:
+      213: 955535624725991351
+    second: enviro 3_56
+  - first:
+      213: -3729060222572809833
+    second: enviro 3_57
+  - first:
+      213: 1048473313774709445
+    second: enviro 3_58
+  - first:
+      213: -2839418040134555480
+    second: enviro 3_59
+  - first:
+      213: -984316280496018951
+    second: enviro 3_60
+  - first:
+      213: 8180853674306650289
+    second: enviro 3_61
+  - first:
+      213: -4801948921223276693
+    second: enviro 3_62
+  - first:
+      213: 3671825826472560357
+    second: enviro 3_63
+  - first:
+      213: 6469757342704422112
+    second: enviro 3_64
+  - first:
+      213: 3487031463661371297
+    second: enviro 3_65
+  - first:
+      213: 2194253675005089257
+    second: enviro 3_66
+  - first:
+      213: 4222970995110240160
+    second: enviro 3_67
+  - first:
+      213: 7184502788807609903
+    second: enviro 3_68
+  - first:
+      213: 8934200534480723502
+    second: enviro 3_69
+  - first:
+      213: -1016367154494160467
+    second: enviro 3_70
+  - first:
+      213: -354842942952719456
+    second: enviro 3_71
+  - first:
+      213: 5375666281855919440
+    second: enviro 3_72
+  - first:
+      213: 5703962016166535745
+    second: enviro 3_73
+  - first:
+      213: 133183950991038992
+    second: enviro 3_74
+  - first:
+      213: -3707950980002569543
+    second: enviro 3_75
+  - first:
+      213: -1366621722817105395
+    second: enviro 3_76
+  - first:
+      213: 4317278455159269191
+    second: enviro 3_77
+  - first:
+      213: -8410598329456110814
+    second: enviro 3_78
+  - first:
+      213: 2249297053055291953
+    second: enviro 3_79
+  - first:
+      213: -8371350727352694210
+    second: enviro 3_80
+  - first:
+      213: -3102845408507457024
+    second: enviro 3_81
+  - first:
+      213: -760995702286206182
+    second: enviro 3_82
+  - first:
+      213: -948654677458784101
+    second: enviro 3_83
+  - first:
+      213: -765274318132876350
+    second: enviro 3_84
+  - first:
+      213: -8310966513296592133
+    second: enviro 3_85
+  - first:
+      213: -1611162998382459250
+    second: enviro 3_86
+  - first:
+      213: 1054248964328249685
+    second: enviro 3_87
+  - first:
+      213: 624999955506995202
+    second: enviro 3_88
+  - first:
+      213: -108365117488899698
+    second: enviro 3_89
+  - first:
+      213: 7608297943513517838
+    second: enviro 3_90
+  - first:
+      213: -4278254036816605195
+    second: enviro 3_91
+  - first:
+      213: -6107854653024163275
+    second: enviro 3_92
+  - first:
+      213: 477579560112615415
+    second: enviro 3_93
+  - first:
+      213: 1103081467981361080
+    second: enviro 3_94
+  - first:
+      213: -921060046016376129
+    second: enviro 3_95
+  - first:
+      213: -6550537517438988787
+    second: enviro 3_96
+  - first:
+      213: -6402051386937424046
+    second: enviro 3_97
+  - first:
+      213: 8793261997937093872
+    second: enviro 3_98
+  - first:
+      213: -6360682574074429920
+    second: enviro 3_99
+  - first:
+      213: -7686009606515162512
+    second: enviro 3_100
+  - first:
+      213: 6652542923983469692
+    second: enviro 3_101
+  - first:
+      213: 5687353367503973030
+    second: enviro 3_102
+  - first:
+      213: -2130448965885034338
+    second: enviro 3_103
+  - first:
+      213: -8600830955018179849
+    second: enviro 3_104
+  - first:
+      213: -4977436090933521293
+    second: enviro 3_105
+  - first:
+      213: 1090332371717287345
+    second: enviro 3_106
+  - first:
+      213: -5023497251858275350
+    second: enviro 3_107
+  - first:
+      213: 6272367313830422761
+    second: enviro 3_108
+  - first:
+      213: 7380943635078614506
+    second: enviro 3_109
+  - first:
+      213: 8452102920880209921
+    second: enviro 3_110
+  - first:
+      213: 5225254924969901011
+    second: enviro 3_111
+  - first:
+      213: -4996382097608630109
+    second: enviro 3_112
+  - first:
+      213: 4420662578246755179
+    second: enviro 3_113
+  - first:
+      213: 3434049935911236567
+    second: enviro 3_114
+  - first:
+      213: 571383704648240862
+    second: enviro 3_115
+  - first:
+      213: 1320807745593960030
+    second: enviro 3_116
+  - first:
+      213: 4745086299312791202
+    second: enviro 3_117
+  - first:
+      213: -3115789712696692756
+    second: enviro 3_118
+  - first:
+      213: -2363316294028226847
+    second: enviro 3_119
+  - first:
+      213: 2835376878096664405
+    second: enviro 3_120
+  - first:
+      213: 1524795474136890971
+    second: enviro 3_121
+  - first:
+      213: 8034577055079675455
+    second: enviro 3_122
+  - first:
+      213: 6128082786458732817
+    second: enviro 3_123
+  - first:
+      213: -6533664031652700343
+    second: enviro 3_124
+  - first:
+      213: -5261942400330850597
+    second: enviro 3_125
+  - first:
+      213: -3445631660247311893
+    second: enviro 3_126
+  - first:
+      213: -6999663774898666249
+    second: enviro 3_127
+  - first:
+      213: -2621685491222836820
+    second: enviro 3_128
+  - first:
+      213: 6092265284542103962
+    second: enviro 3_129
+  - first:
+      213: -4676146982015246814
+    second: enviro 3_130
+  - first:
+      213: 4996046002298421291
+    second: enviro 3_131
+  - first:
+      213: -4239759018284445715
+    second: enviro 3_132
+  - first:
+      213: 180796465389317116
+    second: enviro 3_133
+  - first:
+      213: 3190358920981710330
+    second: enviro 3_134
+  - first:
+      213: -1965694771417653414
+    second: enviro 3_135
+  - first:
+      213: -8122524670282472133
+    second: enviro 3_136
+  - first:
+      213: -3057765302623056096
+    second: enviro 3_137
+  - first:
+      213: -3989050014160205720
+    second: enviro 3_138
+  - first:
+      213: 6921899788407790619
+    second: enviro 3_139
+  - first:
+      213: -6706593586918787699
+    second: enviro 3_140
+  - first:
+      213: 8753792323305663897
+    second: enviro 3_141
+  - first:
+      213: 2249719774513650807
+    second: enviro 3_142
+  - first:
+      213: -7602345280882577805
+    second: enviro 3_143
+  - first:
+      213: -5448366565474054644
+    second: enviro 3_144
+  - first:
+      213: 7976501738934809694
+    second: enviro 3_145
+  - first:
+      213: -4750451986227643331
+    second: enviro 3_146
+  - first:
+      213: -5143794943558086781
+    second: enviro 3_147
+  - first:
+      213: 6871404681301365789
+    second: enviro 3_148
+  - first:
+      213: 7166961103719957399
+    second: enviro 3_149
+  - first:
+      213: -753116228455703872
+    second: enviro 3_150
+  - first:
+      213: 5774038698280385795
+    second: enviro 3_151
+  - first:
+      213: -5716692701586544370
+    second: enviro 3_152
+  - first:
+      213: -8951901650892464298
+    second: enviro 3_153
+  - first:
+      213: -5109934056330605527
+    second: enviro 3_154
+  - first:
+      213: 6924116354551617038
+    second: enviro 3_155
+  - first:
+      213: -6643205514539978671
+    second: enviro 3_156
+  - first:
+      213: 1502567362106149276
+    second: enviro 3_157
+  - first:
+      213: 6782992212112767685
+    second: enviro 3_158
+  - first:
+      213: 8312669381672283669
+    second: enviro 3_159
+  - first:
+      213: 7069126135293129366
+    second: enviro 3_160
+  - first:
+      213: 2916097565834261038
+    second: enviro 3_161
+  - first:
+      213: 8331632142250845261
+    second: enviro 3_162
+  - first:
+      213: 680317860798937682
+    second: enviro 3_163
+  - first:
+      213: -8106506611451674216
+    second: enviro 3_164
+  - first:
+      213: 8148111358759996311
+    second: enviro 3_165
+  - first:
+      213: -8717409863271794018
+    second: enviro 3_166
+  - first:
+      213: 7234254727514330170
+    second: enviro 3_167
+  - first:
+      213: 3335599651269414384
+    second: enviro 3_168
+  - first:
+      213: 2902550110481307297
+    second: enviro 3_169
+  - first:
+      213: -5333467397972632567
+    second: enviro 3_170
+  - first:
+      213: 6449000248134440981
+    second: enviro 3_171
+  - first:
+      213: 8060183101250090449
+    second: enviro 3_172
+  - first:
+      213: 3355414836578824966
+    second: enviro 3_173
+  - first:
+      213: 4560089964423301713
+    second: enviro 3_174
+  - first:
+      213: 9162658432593316920
+    second: enviro 3_175
+  - first:
+      213: 2151895738295429062
+    second: enviro 3_176
+  - first:
+      213: -5706001910658286572
+    second: enviro 3_177
+  - first:
+      213: 7798034865954059210
+    second: enviro 3_178
+  - first:
+      213: -381803458298670462
+    second: enviro 3_179
+  - first:
+      213: 7304044632712694421
+    second: enviro 3_180
+  - first:
+      213: -9077507779696418194
+    second: enviro 3_181
+  - first:
+      213: 6990985522240969634
+    second: enviro 3_182
+  - first:
+      213: 994931848258351974
+    second: enviro 3_183
+  - first:
+      213: -74900059103184869
+    second: enviro 3_184
+  - first:
+      213: -4200311895093396914
+    second: enviro 3_185
+  - first:
+      213: -3085509352875975043
+    second: enviro 3_186
+  - first:
+      213: 8861149143510568766
+    second: enviro 3_187
+  - first:
+      213: -4376180960340247065
+    second: enviro 3_188
+  - first:
+      213: -676531521718700796
+    second: enviro 3_189
+  - first:
+      213: -1322821954537999150
+    second: enviro 3_190
+  - first:
+      213: 8497692348469575645
+    second: enviro 3_191
+  - first:
+      213: -2887875418526394616
+    second: enviro 3_192
+  - first:
+      213: -6717920843323367375
+    second: enviro 3_193
+  - first:
+      213: 1798194221262070539
+    second: enviro 3_194
+  - first:
+      213: 8695307988805101172
+    second: enviro 3_195
+  - first:
+      213: -7019894925783897156
+    second: enviro 3_196
+  - first:
+      213: 5849739325176365005
+    second: enviro 3_197
+  - first:
+      213: 4052384365629527088
+    second: enviro 3_198
+  - first:
+      213: -4570581389107809093
+    second: enviro 3_199
+  - first:
+      213: 97911278079421467
+    second: enviro 3_200
+  - first:
+      213: 3436293485349965757
+    second: enviro 3_201
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enviro 3_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 951
+        width: 1166
+        height: 1145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf8126807c0786d0800000000000000
+      internalID: -2988406150310817871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_1
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 2019
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4df1a2a48f1bcee0800000000000000
+      internalID: -1239862617885770420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_2
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 2022
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da211df9e55462fd0800000000000000
+      internalID: -2367128281426095443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_3
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 2023
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca54b643d6a8a360800000000000000
+      internalID: 7181173032196790989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_4
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 2025
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278a067076b0d050800000000000000
+      internalID: 5823354912323045154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_5
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 2025
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a78a09908f25c1d0800000000000000
+      internalID: -3331204120000690271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_6
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 2025
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35be416349960ba0800000000000000
+      internalID: -6123038128689203905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_7
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2025
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee56e9a5543d7c40800000000000000
+      internalID: 5511619061498666733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_8
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2024
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d28d349fa620e70800000000000000
+      internalID: 9079937417549982976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_9
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 2022
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a698cc2aaed2d1810800000000000000
+      internalID: 1737595517011790186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_10
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2020
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63bec2fc1092f9f0800000000000000
+      internalID: -436127759894400146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_11
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2017
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249ad75ce8d0de040800000000000000
+      internalID: 4678410494757677378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_12
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 2009
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7aa472c448b9f10800000000000000
+      internalID: 2277559499177502715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_13
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 2013
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23012e761cd99350800000000000000
+      internalID: 6024087965748233004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_14
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2016
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff15259109ac0b90800000000000000
+      internalID: -7274253473847894018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_15
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 2014
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b43c82f698ddaf0800000000000000
+      internalID: -369988483856250005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_16
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 2010
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41884cca107c8bd20800000000000000
+      internalID: 3294601937428973588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_17
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1999
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0455abddde6467460800000000000000
+      internalID: 7239051438485820736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_18
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 2004
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb96d95609947640800000000000000
+      internalID: 5076850932509481951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_19
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 2005
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1c0dc9bc92ecfa0800000000000000
+      internalID: -5778635317383740980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_20
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2000
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e7f7c51791a94c0800000000000000
+      internalID: -4280080521188376971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_21
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1988
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27beed65437710e90800000000000000
+      internalID: -7061231674060772494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_22
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 1994
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8aa02e5d8f6cf30800000000000000
+      internalID: 4595634067282241709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_23
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1995
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b6888da50601610800000000000000
+      internalID: 1589876611757927322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_24
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1989
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fcb0e770b69cfd0800000000000000
+      internalID: -2321206453009133695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_25
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1974
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68c827bc924d9100800000000000000
+      internalID: 116322406236735595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_26
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1981
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bceda84c2e2f890800000000000000
+      internalID: -7425623501809202322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_27
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1982
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f875c0b884a250800000000000000
+      internalID: 5955034900099298455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_28
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1975
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db20316741643910800000000000000
+      internalID: 1816183508938271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_29
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1958
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573281d4015f1a2b0800000000000000
+      internalID: -5574905413346253963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_30
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1966
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a376e42c796bd19f0800000000000000
+      internalID: -496039621024651462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_31
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1968
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3114b407e0d254090800000000000000
+      internalID: -8050979218818121453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_32
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 1960
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79199da3575a41f50800000000000000
+      internalID: 6851282856054460823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_33
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1941
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec683b59d8b43cf90800000000000000
+      internalID: -6934615929746389298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_34
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1950
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b15f248357ea53a0800000000000000
+      internalID: -6675769151737343563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_35
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1951
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b705413e3d9775740800000000000000
+      internalID: 5140711450621530235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_36
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1942
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2e3758f100146b0800000000000000
+      internalID: -5313965949937524032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_37
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1921
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a63757e3a9bca870800000000000000
+      internalID: 8695529094157645479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_38
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1931
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c12adedddff0d0800000000000000
+      internalID: -3386744445547199575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_39
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 1933
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef399c9c563e1910800000000000000
+      internalID: 1809943871641698279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_40
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 1923
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f0dbd59dc6e2da0800000000000000
+      internalID: -5967712775382954223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_41
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 1900
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a50e66148d87350800000000000000
+      internalID: 6014795077763750454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_42
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 1910
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f05f1de7f3355e30800000000000000
+      internalID: 4491553343300129014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_43
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 1912
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14dada8c57e9d1f0800000000000000
+      internalID: -1019529455970102241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_44
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 1901
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c9c45cc4b61a900800000000000000
+      internalID: 693953795063585928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_45
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1876
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db88d61afec4f3d0800000000000000
+      internalID: -3173684263868920872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_46
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1888
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7d2efd2a1b50900800000000000000
+      internalID: 650121034323908540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_47
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1890
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34111a493e05fb630800000000000000
+      internalID: 3944960736981225795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_48
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 1878
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfe916bb430ea9b0800000000000000
+      internalID: -5067108907032645705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_49
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1864
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e2756f8c8291640800000000000000
+      internalID: 5051113300664200820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_50
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1866
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e06bceb52c1120800000000000000
+      internalID: 2385823403985659599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_51
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 1853
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eabd47a5b51c5450800000000000000
+      internalID: 6078757466983480033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_52
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1839
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af801314a579ba0800000000000000
+      internalID: -6082293535698519434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_53
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1852
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361093d788531f530800000000000000
+      internalID: 3886946813730160995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_54
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1840
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3d376869aba6a70800000000000000
+      internalID: 8821067975822136290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_55
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1825
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3716fea87efe320800000000000000
+      internalID: 2589542894668968887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_56
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1827
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf060a869eb24d00800000000000000
+      internalID: 955535624725991351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_57
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 1813
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79132872c77bf3cc0800000000000000
+      internalID: -3729060222572809833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_58
+      rect:
+        serializedVersion: 2
+        x: 1540
+        y: 1797
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa4008cecec8e00800000000000000
+      internalID: 1048473313774709445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_59
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1812
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8a1fc165c5898d0800000000000000
+      internalID: -2839418040134555480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_60
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 1799
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9a66ade810752f0800000000000000
+      internalID: -984316280496018951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_61
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1783
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b04f70a21b388170800000000000000
+      internalID: 8180853674306650289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_62
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1785
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679ae0e5ec0c5db0800000000000000
+      internalID: -4801948921223276693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_63
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 1770
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e680009222f4f230800000000000000
+      internalID: 3671825826472560357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_64
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1753
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec4fd2660239c950800000000000000
+      internalID: 6469757342704422112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_65
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1768
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af752024ac646030800000000000000
+      internalID: 3487031463661371297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_66
+      rect:
+        serializedVersion: 2
+        x: 2493
+        y: 1755
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e516cd771e837e10800000000000000
+      internalID: 2194253675005089257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_67
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1738
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd25ceeb10b9a30800000000000000
+      internalID: 4222970995110240160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_68
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 1740
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e4ea6a83b74b360800000000000000
+      internalID: 7184502788807609903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_69
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1722
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e14d9fc08acfb70800000000000000
+      internalID: 8934200534480723502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_70
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1724
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1400b357325e1f0800000000000000
+      internalID: -1016367154494160467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_71
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1706
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abbf323938531bf0800000000000000
+      internalID: -354842942952719456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_72
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1709
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055211970043a9a40800000000000000
+      internalID: 5375666281855919440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_73
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1690
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1426de99b3b882f40800000000000000
+      internalID: 5703962016166535745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_74
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1692
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a9a98091a29d100800000000000000
+      internalID: 133183950991038992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_75
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1673
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2a260ba36ba8cc0800000000000000
+      internalID: -3707950980002569543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_76
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1676
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d027725a8c8c80de0800000000000000
+      internalID: -1366621722817105395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_77
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1657
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747273c81ed0aeb30800000000000000
+      internalID: 4317278455159269191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_78
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 1659
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235640716d874b80800000000000000
+      internalID: -8410598329456110814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_79
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1640
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13291b1a0cb173f10800000000000000
+      internalID: 2249297053055291953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_80
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 1643
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a4fe5eddcf2db80800000000000000
+      internalID: -8371350727352694210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_81
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1623
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00216f06a8a70f4d0800000000000000
+      internalID: -3102845408507457024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_82
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 1626
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb1a1d0766075f0800000000000000
+      internalID: -760995702286206182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_83
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1605
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907e87d893b5d2f0800000000000000
+      internalID: -948654677458784101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_84
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 1608
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbe5ffef033165f0800000000000000
+      internalID: -765274318132876350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_85
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1588
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23ac25df389ac80800000000000000
+      internalID: -8310966513296592133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_86
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1591
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86092e0acff3a9e0800000000000000
+      internalID: -1611162998382459250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_87
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1570
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559db9fe8d171ae00800000000000000
+      internalID: 1054248964328249685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_88
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1574
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20021ace5227ca800800000000000000
+      internalID: 624999955506995202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_89
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 1553
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89d702ff720f7ef0800000000000000
+      internalID: -108365117488899698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_90
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1556
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f457c4baa169960800000000000000
+      internalID: 7608297943513517838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_91
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1535
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4aa4ee9690a4c0800000000000000
+      internalID: -4278254036816605195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_92
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1538
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a27cacd8a8c3ba0800000000000000
+      internalID: -6107854653024163275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_93
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 1517
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffef706414b0a600800000000000000
+      internalID: 477579560112615415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_94
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1520
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf685130ceee4f00800000000000000
+      internalID: 1103081467981361080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_95
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1499
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb29364a4ccb733f0800000000000000
+      internalID: -921060046016376129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_96
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 1503
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e0e2985d0d715a0800000000000000
+      internalID: -6550537517438988787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_97
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1481
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2574ccfde285727a0800000000000000
+      internalID: -6402051386937424046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_98
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1485
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc6bfbc231f70a70800000000000000
+      internalID: 8793261997937093872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_99
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1463
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb64336e05ab7a0800000000000000
+      internalID: -6360682574074429920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_100
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1467
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728c6f2cfec55590800000000000000
+      internalID: -7686009606515162512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_101
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1445
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cb21dea84925c50800000000000000
+      internalID: 6652542923983469692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_102
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1449
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa223e31c98dee40800000000000000
+      internalID: 5687353367503973030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_103
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1427
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90035004ff1f62e0800000000000000
+      internalID: -2130448965885034338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_104
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1431
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa25f8c0d5b3a880800000000000000
+      internalID: -8600830955018179849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_105
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1409
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d2b33f389ceab0800000000000000
+      internalID: -4977436090933521293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_106
+      rect:
+        serializedVersion: 2
+        x: 2584
+        y: 1413
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd6157e383a12f00800000000000000
+      internalID: 1090332371717287345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_107
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1391
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae326d47dd3f84ab0800000000000000
+      internalID: -5023497251858275350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_108
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1395
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e822a9e6dceb0750800000000000000
+      internalID: 6272367313830422761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_109
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1374
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8a0451216e6660800000000000000
+      internalID: 7380943635078614506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_110
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1377
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1004b1c43d6eb4570800000000000000
+      internalID: 8452102920880209921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_111
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1356
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf0bf6ba5d38840800000000000000
+      internalID: 5225254924969901011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_112
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 1359
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0aae544f849aab0800000000000000
+      internalID: -4996382097608630109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_113
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1338
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a2487139595d30800000000000000
+      internalID: 4420662578246755179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_114
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 1341
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d331fae83238af20800000000000000
+      internalID: 3434049935911236567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_115
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1321
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede410ab376fde700800000000000000
+      internalID: 571383704648240862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_116
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 1324
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5666bc85a3745210800000000000000
+      internalID: 1320807745593960030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_117
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1303
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9c1349dee9d140800000000000000
+      internalID: 4745086299312791202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_118
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1306
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefa5e3b3cd72c4d0800000000000000
+      internalID: -3115789712696692756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_119
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 1286
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0e8a1a50d33fd0800000000000000
+      internalID: -2363316294028226847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_120
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1289
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ce478f38495720800000000000000
+      internalID: 2835376878096664405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_121
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1269
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e7d0fa769292510800000000000000
+      internalID: 1524795474136890971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_122
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 1272
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f363788334d808f60800000000000000
+      internalID: 8034577055079675455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_123
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1252
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1190f0983d25b0550800000000000000
+      internalID: 6128082786458732817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_124
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1255
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f18971e23c355a0800000000000000
+      internalID: -6533664031652700343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_125
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1235
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde96bf0443d9f6b0800000000000000
+      internalID: -5261942400330850597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_126
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1238
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be99e10c248ae20d0800000000000000
+      internalID: -3445631660247311893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_127
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1219
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4cefde1e23cde90800000000000000
+      internalID: -6999663774898666249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_128
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 1221
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca90ede9fe6ed9bd0800000000000000
+      internalID: -2621685491222836820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_129
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1203
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9183928ff21c8450800000000000000
+      internalID: 6092265284542103962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_130
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 1205
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e577b581dfa1fb0800000000000000
+      internalID: -4676146982015246814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_131
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1187
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2002807e55855540800000000000000
+      internalID: 4996046002298421291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_132
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 1189
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def85e5d2a95925c0800000000000000
+      internalID: -4239759018284445715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_133
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1171
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb2d286d61528200800000000000000
+      internalID: 180796465389317116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_134
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1158
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50d1f098e664c20800000000000000
+      internalID: 3190358920981710330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_135
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1173
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fdec4250378b4e0800000000000000
+      internalID: -1965694771417653414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_136
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1156
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b35677ce8def64f80800000000000000
+      internalID: -8122524670282472133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_137
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1143
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f43a278a2a095d0800000000000000
+      internalID: -3057765302623056096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_138
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1141
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c6b2a52c04a8c0800000000000000
+      internalID: -3989050014160205720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_139
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1128
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cd5ea0f278f0060800000000000000
+      internalID: 6921899788407790619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_140
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1126
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85face6aa46de2a0800000000000000
+      internalID: -6706593586918787699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_141
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1111
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dec2c0db7bb7970800000000000000
+      internalID: 8753792323305663897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_142
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1113
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cde04273c983f10800000000000000
+      internalID: 2249719774513650807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_143
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1097
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e6029fe3b0f7690800000000000000
+      internalID: -7602345280882577805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_144
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 1085
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ecdc2b9738364b0800000000000000
+      internalID: -5448366565474054644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_145
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 1099
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54be7bf11a32be60800000000000000
+      internalID: 7976501738934809694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_146
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 1084
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c3a566611031eb0800000000000000
+      internalID: -4750451986227643331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_147
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1070
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f05c770c19d98b0800000000000000
+      internalID: -5143794943558086781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_148
+      rect:
+        serializedVersion: 2
+        x: 2434
+        y: 1072
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d149ce0c6222c5f50800000000000000
+      internalID: 6871404681301365789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_149
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1057
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930542d629267360800000000000000
+      internalID: 7166961103719957399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_150
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1046
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cad058c7c46c85f0800000000000000
+      internalID: -753116228455703872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_151
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1059
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d7c5a9a91812050800000000000000
+      internalID: 5774038698280385795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_152
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1045
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09add7b64a3aa0b0800000000000000
+      internalID: -5716692701586544370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_153
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1032
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f5252b0e474c380800000000000000
+      internalID: -8951901650892464298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_154
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1034
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c4eb2ac0ed519b0800000000000000
+      internalID: -5109934056330605527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_155
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1021
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0695809327671060800000000000000
+      internalID: 6924116354551617038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_156
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 1009
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150bdef18c79ec3a0800000000000000
+      internalID: -6643205514539978671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_157
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1011
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99ce6d0e013ad410800000000000000
+      internalID: 1502567362106149276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_158
+      rect:
+        serializedVersion: 2
+        x: 2383
+        y: 1022
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf835aa77022e50800000000000000
+      internalID: 6782992212112767685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_159
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 998
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ea7dd92c88c5370800000000000000
+      internalID: 8312669381672283669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_160
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 988
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692b39624c49a1260800000000000000
+      internalID: 7069126135293129366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_161
+      rect:
+        serializedVersion: 2
+        x: 2340
+        y: 990
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22bee5394f087820800000000000000
+      internalID: 2916097565834261038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_162
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1000
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44a61e5a47ef9370800000000000000
+      internalID: 8331632142250845261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_163
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 978
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a364b6d79f07900800000000000000
+      internalID: 680317860798937682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_164
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 969
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891411fdf27ef7f80800000000000000
+      internalID: -8106506611451674216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_165
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 970
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b07393c18e31170800000000000000
+      internalID: 8148111358759996311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_166
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 980
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ab23a8ae9850780800000000000000
+      internalID: -8717409863271794018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_167
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 960
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349e20985c356460800000000000000
+      internalID: 7234254727514330170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_168
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 951
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd84d6c53e6a4e20800000000000000
+      internalID: 3335599651269414384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_169
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 952
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6520672fde74820800000000000000
+      internalID: 2902550110481307297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_170
+      rect:
+        serializedVersion: 2
+        x: 2294
+        y: 961
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cd6b2d8a7bbf5b0800000000000000
+      internalID: -5333467397972632567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_171
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 943
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5189572be837f7950800000000000000
+      internalID: 6449000248134440981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_172
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 935
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d53e9e63d58bdf60800000000000000
+      internalID: 8060183101250090449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_173
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 937
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6033b502404d09e20800000000000000
+      internalID: 3355414836578824966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_174
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 944
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a464989a1b84f30800000000000000
+      internalID: 4560089964423301713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_175
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 928
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c46f07c4d482f70800000000000000
+      internalID: 9162658432593316920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_176
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 922
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7a6c2d5c11ddd10800000000000000
+      internalID: 2151895738295429062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_177
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 923
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c33837e7530d0b0800000000000000
+      internalID: -5706001910658286572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_178
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 930
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac37d43156f283c60800000000000000
+      internalID: 7798034865954059210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_179
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 916
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282971e07cf83baf0800000000000000
+      internalID: -381803458298670462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_180
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 910
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a407c15ed2d5560800000000000000
+      internalID: 7304044632712694421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_181
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 911
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62a951e4c6360280800000000000000
+      internalID: -9077507779696418194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_182
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 917
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab521bea48f40160800000000000000
+      internalID: 6990985522240969634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_183
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 905
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663792f9e35becd00800000000000000
+      internalID: 994931848258351974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_184
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 901
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bf770bc6e5fef0800000000000000
+      internalID: -74900059103184869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_185
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 897
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a3c1be59e75b5c0800000000000000
+      internalID: -4200311895093396914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_186
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 898
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e9eae57911e25d0800000000000000
+      internalID: -3085509352875975043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_187
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 902
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f44b8923029fa70800000000000000
+      internalID: 8861149143510568766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_188
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 906
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed77124a9ea443c0800000000000000
+      internalID: -4376180960340247065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_189
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 894
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4053a985a2a7c96f0800000000000000
+      internalID: -676531521718700796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_190
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 891
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4bca2e07464ade0800000000000000
+      internalID: -1322821954537999150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_191
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 889
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf75111b2edde570800000000000000
+      internalID: 8497692348469575645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_192
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 888
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d6238b943ce7d0800000000000000
+      internalID: -2887875418526394616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_193
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 889
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a488069625c2a0800000000000000
+      internalID: -6717920843323367375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_194
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 892
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b036c73fd1874f810800000000000000
+      internalID: 1798194221262070539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_195
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 895
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476285dcb80fba870800000000000000
+      internalID: 8695307988805101172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_196
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 887
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb651c02c2549e90800000000000000
+      internalID: -7019894925783897156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_197
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 886
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf35c94ce27e2150800000000000000
+      internalID: 5849739325176365005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_198
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 886
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034d1be2c16fc3830800000000000000
+      internalID: 4052384365629527088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_199
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 886
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b73d41780290c0800000000000000
+      internalID: -4570581389107809093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_200
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 886
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cad65e9c9db5100800000000000000
+      internalID: 97911278079421467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_201
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 886
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf064af7ba20bf20800000000000000
+      internalID: 3436293485349965757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro 3_202
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 864
+        width: 1231
+        height: 1179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5290a5529638b03488caaba1b2b03d87
+      internalID: 742624075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 11c10ee7921d8de4aa59eedc0e442c99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enviro 3_202: 742624075
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
